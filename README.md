@@ -41,7 +41,7 @@ Aqui está a compreensão de lista, que cria uma nova lista já com os resultado
 "Explique o programa em linguagem simples, como se fosse para um iniciante."
 **Ele pega vários números que você digita e calcula a raiz quadrada de cada um deles de uma vez só.
 
-🔎 Linha por linha:
+Linha por linha:
 
 import math
 Aqui a gente “puxa” uma caixinha de ferramentas pronta do Python. Dentro dela tem a função que calcula raiz quadrada.
@@ -72,14 +72,14 @@ Pensa assim:
 
 Ou seja, ele faz tudo isso de uma vez só.
 
-👉 Resultado:
+Resultado:
 
 [2.0, 3.0, 4.0, 5.0]
 
 print("Raízes quadradas:", raizes)
 Mostra o resultado final na tela.
 
-🧠 Resumindo:
+Resumindo:
 
 O programa:
 
@@ -91,3 +91,4 @@ Mostra tudo organizado em uma lista
 ### Reflexão
 
 A cada comando é observado que tem um "enxurgamento" de códigos e jeito de programar. Com isso o prompt fica mais rápido e com poucos códigos.
+Para o aprendizado com certeza é a variação número 1. Traz comandos basicos e importantes para um avanço nos estudos.
