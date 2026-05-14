@@ -2,7 +2,7 @@
 
 ## 📌 Desafio Escolhido
 
-Descreva aqui o desafio proposto pelo grupo (ex.: cadastro de usuários, automação de envio de e-mails, integração com API de IA).
+Descreva aqui o desafio proposto pelo grupo (ex: cadastro de usuários, automação de envio de e-mails, integração com API de IA).
 
 ---
 
